@@ -3,9 +3,9 @@ const chalk = require('chalk');
 
 isHttp = false
 
-var username = "vpnbook"
-var password = "6b7wEa7"
-var host = "de4.vpnbook.com"
+var username = "username"
+var password = "password"
+var host = "host"
 
 const server = new ProxyChain.Server({
 
